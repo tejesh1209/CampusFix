@@ -1,0 +1,7 @@
+{
+  "name": "campusfix",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Premium campus maintenance and complaint management platform",
+  "scripts": {"dev": "npm --prefix frontend run dev", "build": "npm --prefix frontend run build"}
+}
